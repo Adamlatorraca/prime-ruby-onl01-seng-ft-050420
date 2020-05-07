@@ -1,8 +1,8 @@
 # Add  code here!
 def prime?(integer)
   if integer % 2 == 0
-    puts true
+    return true
   else
-    puts false
+    return false
 end
 end
